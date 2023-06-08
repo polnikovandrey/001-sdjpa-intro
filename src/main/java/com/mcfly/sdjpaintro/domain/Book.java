@@ -1,4 +1,4 @@
-package com.mfly.sdjpaintro.domain;
+package com.mcfly.sdjpaintro.domain;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
